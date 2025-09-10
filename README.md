@@ -4,7 +4,8 @@ This project analyzes Uber ride booking data to provide actionable insights for 
 <img width="1904" height="1076" alt="Screenshot 2025-09-10 105655" src="https://github.com/user-attachments/assets/6dc45bf6-5624-4981-b99d-88349ed7ce67" />
 <img width="1918" height="1076" alt="Screenshot 2025-09-10 105729" src="https://github.com/user-attachments/assets/a3cfa1c6-7a63-4799-aca6-563b37708385" />
 <img width="1917" height="1079" alt="Screenshot 2025-09-10 105742" src="https://github.com/user-attachments/assets/bba84d83-d726-4978-8dc7-4cb66299cae8" />
-What We Did on this project:
+
+**Project Overview:**
 
 **Data Cleaning & Preparation**
 
